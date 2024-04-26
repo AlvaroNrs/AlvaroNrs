@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @AlvaroNrs
 - 🌱 I’m currently learning HTML/CSS and JavaScript
-- 📫 How to reach me: @a.silva_front; https://www.linkedin.com/in/alvaronrsilva
+- 📫 How to reach me: [@a.silva_front](https://www.instagram.com); https://www.linkedin.com/in/alvaronrsilva
 
 <!---
 AlvaroNrs/AlvaroNrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
