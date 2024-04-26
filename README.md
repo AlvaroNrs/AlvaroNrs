@@ -1,6 +1,6 @@
 - 👋 Olá, sou @AlvaroNrs
 - 🌱 No momento estou aprendendo HTML/CSS and JavaScript
-- 📫 Como entrar em contato: @a.silva_front; https://www.linkedin.com/in/alvaronrsilva
+- 📫 Como entrar em contato: [@a.silva_front](https://www.instagram.com); https://www.linkedin.com/in/alvaronrsilva
 
 - 👋 Hi, I’m @AlvaroNrs
 - 🌱 I’m currently learning HTML/CSS and JavaScript
